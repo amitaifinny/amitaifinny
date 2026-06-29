@@ -41,7 +41,7 @@ I am a **Computer Science student** at Brigham Young University - Idaho with a m
 ---
 
 ### 🤝 Connect with Me
-* 💼 [Connect on LinkedIn](https://www.linkedin.com/in/amitai-finlayson)
+* 💼 <a href="https://www.linkedin.com/in/amitai-finlayson" target="_blank" rel="noopener noreferrer">Connect on LinkedIn</a>
 * 📧 [Shoot me an Email](mailto:mckayfinny@gmail.com)
 
 ---
