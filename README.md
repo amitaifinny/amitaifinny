@@ -49,5 +49,5 @@ I am a **Computer Science student** at Brigham Young University - Idaho with a m
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amitaifinny&show_icons=true&theme=radical&hide_border=true" alt="Amitai's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amitaifinny&show_icons=true&theme=radical&hide_border=true&hide_rank=true&count_private=true" alt="Amitai's GitHub Stats" />
 </p>
