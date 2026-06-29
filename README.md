@@ -43,3 +43,11 @@ I am a **Computer Science student** at Brigham Young University - Idaho with a m
 ### 🤝 Connect with Me
 * 💼 [Connect on LinkedIn](www.linkedin.com/in/amitai-finlayson)
 * 📧 [Shoot me an Email](mckayfinny@gmail.com)
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amitaifinny&show_icons=true&theme=radical&hide_border=true" alt="Amitai's GitHub Stats" />
+</p>
